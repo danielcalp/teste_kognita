@@ -1,0 +1,24 @@
+# Feedback
+## Tempo de duração
+
+> O que você achou do tempo total deste teste ser entre 8-10 horas?
+r:
+> Foi muito ou pouco tempo para desenvolver este teste?
+r:
+
+## Complexidade
+
+> Você achou a dificuldade apropriada?
+r:
+> O teste foi muito fácil ou muito difícil para você?
+r:
+> Você sente que passou no teste? (esta resposta não será julgada na avaliação do teste)
+r:
+
+## Sua conclusão sobre este teste
+r:
+
+
+## Obrigado!
+Seu feedback é muito importante para nós, esperamos que este teste tenha de alguma forma
+contribuído com o seu desenvolvimento na área!

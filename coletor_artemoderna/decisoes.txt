@@ -1,0 +1,2 @@
+# Coloque suas decisões tomadas aqui
+ex: Construí uma função específica para fazer tal coisa.

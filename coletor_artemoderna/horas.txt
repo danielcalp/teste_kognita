@@ -1,0 +1,6 @@
+# Horas que passou no projeto
+ex:
+Primeira task - 0:30h
+Segunda task - 1:30h
+
+-- total: 2h
