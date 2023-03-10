@@ -43,7 +43,7 @@ Por padrão, o coletor deve ser iniciado pelo arquivo `coletor_artemoderna/main.
 
 ### Entregável ###
 
-* O coletor, com commit e push neste repositório
+* O coletor de dados
 
     O coletor deve ser escrito em python 3.8+ e seguir o padrão de código PEP8. Qualquer informação sensitiva deve ser removida do repositório.
 
