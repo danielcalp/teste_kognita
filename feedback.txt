@@ -12,8 +12,6 @@ r:
 r:
 > O teste foi muito fácil ou muito difícil para você?
 r:
-> Você sente que passou no teste? (esta resposta não será julgada na avaliação do teste)
-r:
 
 ## Sua conclusão sobre este teste
 r:
