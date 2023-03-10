@@ -72,12 +72,16 @@ Por padrão, o coletor deve ser iniciado pelo arquivo `coletor_artemoderna/main.
 
 * Report de Feedback
 
-    Nós queremos receber um feedback deste teste. Adicione seu feedback no arquivo "feedback.txt". Sua opinião é muito importante para nós.
+    Nós queremos receber um feedback deste teste. Adicione seu feedback no arquivo "feedback.txt". Seu feedback é muito importante para nós.
+
+### Data limite de entrega ###
+
+Este teste não possui uma data limite de entrega, mas o quanto antes for entregue podemos ir para a próxima etapa do processo.
+Não se esqueça de completar todos os entregáveis.
 
 ### Tempo Limite ###
 
-Esperamos que esse teste dure entre 8 à 10 horas dependendo do seu nível de experiência.
-
+Esperamos que o tempo total de desenvolvimento deste teste dure entre 8 à 10 horas, dependendo do seu nível de experiência.
 
 Nós não queremos que este teste dure mais do que isso, então caso ultrapasse este limite, por favor considere alguns pontos importantes:
 
@@ -89,11 +93,6 @@ Nós não queremos que este teste dure mais do que isso, então caso ultrapasse 
   Caso não tenha tempo de desenvolver o coletor por completo, gostaremos que as informações de cada URL deste arquivo sejam devidamente extraídos e salvos em um arquivo csv único.
 	
   2. Caso o parser esteja completo, mas alguma outra parte não esteja completa e o tempo de duração passou de 10 horas, pare o que está fazendo e finalize o teste com pelo menos os três reports completos.
-
-### Data limite de entrega ###
-
-Este teste não possui uma data limite de entrega, mas o quanto antes for entregue podemos ir para a próxima etapa do processo.
-Não se esqueça de completar todos os entregáveis.
 
 ### Confidencialidade ###
 
