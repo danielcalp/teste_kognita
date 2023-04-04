@@ -1,2 +1,7 @@
 # Coloque suas decisões tomadas aqui
 ex: Construí uma função específica para fazer tal coisa.
+
+Construir uma função para acessar um dicionario para aderir os valores coletados da raspagem - 12:22
+Construir uma função que me retorne uma lista dos Url's de cada subcategoria - 12:22
+Construir a logica para coletar a categoria e o url da mesma e repetir o processo para as subcategorias - 13:16
+

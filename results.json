@@ -1,0 +1,137 @@
+[
+    {
+        "nome_categoria": "Fragrant Ladies",
+        "url_categoria": "/browse/fragrantladies",
+        "imagems": "",
+        "subcategorias": []
+    },
+    {
+        "nome_categoria": "Qing Japanese",
+        "url_categoria": "/browse/qingjapanese",
+        "imagems": "",
+        "subcategorias": [
+            {
+                "nome_categoria": "Anne Joseph",
+                "url_categoria": "/browse/qingjapanese/annejoseph",
+                "imagems": "",
+                "subcategorias": []
+            },
+            {
+                "nome_categoria": "And Miscellany",
+                "url_categoria": "/browse/qingjapanese/andmiscellany",
+                "imagems": "",
+                "subcategorias": []
+            },
+            {
+                "nome_categoria": "Of Grass",
+                "url_categoria": "/browse/qingjapanese/ofgrass",
+                "imagems": "",
+                "subcategorias": []
+            },
+            {
+                "nome_categoria": "The Cock",
+                "url_categoria": "/browse/qingjapanese/thecock",
+                "imagems": "",
+                "subcategorias": []
+            },
+            {
+                "nome_categoria": "Mars S",
+                "url_categoria": "/browse/qingjapanese/marss",
+                "imagems": "",
+                "subcategorias": []
+            }
+        ]
+    },
+    {
+        "nome_categoria": "In Sunsh",
+        "url_categoria": "/browse/insunsh",
+        "imagems": "",
+        "subcategorias": []
+    },
+    {
+        "nome_categoria": "Une Tete",
+        "url_categoria": "/browse/unetete",
+        "imagems": "",
+        "subcategorias": [
+            {
+                "nome_categoria": "Dormir Que",
+                "url_categoria": "/browse/unetete/dormirque",
+                "imagems": "",
+                "subcategorias": []
+            },
+            {
+                "nome_categoria": "Baigneurs From",
+                "url_categoria": "/browse/unetete/baigneursfrom",
+                "imagems": "",
+                "subcategorias": []
+            },
+            {
+                "nome_categoria": "Des Lys",
+                "url_categoria": "/browse/unetete/deslys",
+                "imagems": "",
+                "subcategorias": []
+            },
+            {
+                "nome_categoria": "Vl S",
+                "url_categoria": "/browse/unetete/vls",
+                "imagems": "",
+                "subcategorias": []
+            },
+            {
+                "nome_categoria": "Botanist Prints",
+                "url_categoria": "/browse/unetete/botanistprints",
+                "imagems": "",
+                "subcategorias": []
+            },
+            {
+                "nome_categoria": "Primula Veni",
+                "url_categoria": "/browse/unetete/primulaveni",
+                "imagems": "",
+                "subcategorias": []
+            },
+            {
+                "nome_categoria": "Normandy Prints",
+                "url_categoria": "/browse/unetete/normandyprints",
+                "imagems": "",
+                "subcategorias": []
+            },
+            {
+                "nome_categoria": "St Malo",
+                "url_categoria": "/browse/unetete/stmalo",
+                "imagems": "",
+                "subcategorias": []
+            }
+        ]
+    },
+    {
+        "nome_categoria": "Summertime",
+        "url_categoria": "/browse/summertime",
+        "imagems": "",
+        "subcategorias": [
+            {
+                "nome_categoria": "Wrapper From",
+                "url_categoria": "/browse/summertime/wrapperfrom",
+                "imagems": "",
+                "subcategorias": []
+            },
+            {
+                "nome_categoria": "Court Prints",
+                "url_categoria": "/browse/summertime/courtprints",
+                "imagems": "",
+                "subcategorias": []
+            },
+            {
+                "nome_categoria": "Marco Ricci",
+                "url_categoria": "/browse/summertime/marcoricci",
+                "imagems": "",
+                "subcategorias": []
+            },
+            {
+                "nome_categoria": "Rossignol Nachtigall",
+                "url_categoria": "/browse/summertime/rossignolnachtigall",
+                "imagems": "",
+                "subcategorias": []
+            }
+        ]
+    }
+]

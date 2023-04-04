@@ -4,3 +4,14 @@ Primeira task - 0:30h
 Segunda task - 1:30h
 
 -- total: 2h
+
+Inicio 12:03
+Revisando objetivo do teste - 12:06
+Identificando o formato que o arquivo main.py via receber - 12:09
+Terminando de fazer o clone para o meu repositório privado - 12:19
+Construir uma função para acessar um dicionario para aderir os valores coletados da raspagem - 12:22
+Fazer alguns testes de requisição para analisar o retorno dos dados - 12:30
+Testar um dicionario que me permita acessar todas as subcategorias 12:48
+Intervalo - 14:30
+Retorno - 15:05
+
