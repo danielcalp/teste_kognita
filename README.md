@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![KOGNITA_RGB_LOGO_COMPLETO_ROXO_ROSA](https://user-images.githubusercontent.com/81701366/215144953-33d142f6-a2ec-4105-93cf-5d1a3f80ec57.png)
 
 # Orientações gerais
@@ -103,3 +104,6 @@ Nós não queremos que este teste dure mais do que isso, então caso ultrapasse 
 ### Confidencialidade ###
 
 Por favor não compartilhe este projeto ou crie posts em fóruns pela internet.
+=======
+# teste_kognita
+>>>>>>> ce4d06b9a61cb7e6d5001b192745ff733b3585a2
