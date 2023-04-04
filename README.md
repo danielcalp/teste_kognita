@@ -1,10 +1,10 @@
-<<<<<<< HEAD
 ![KOGNITA_RGB_LOGO_COMPLETO_ROXO_ROSA](https://user-images.githubusercontent.com/81701366/215144953-33d142f6-a2ec-4105-93cf-5d1a3f80ec57.png)
 
 # Orientações gerais
 
 - O presente repositório e seu conteúdo é de caráter pessoal e privado, não podendo ser compartilhado pelo candidato por quaisquer meios.
 - A solução do exercício deverá ser elaborada única e exclusivamente pelo candidato, sem ajuda pessoal externa. Obviamente, não há problemas em caso de  consultas em livros ou meios eletrônicos (não é permitida a submissão das questões deste teste em fóruns e comunidades online).
+
 
 
 # Projeto Teste: Extração de Trabalhos Artísticos #
