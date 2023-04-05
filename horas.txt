@@ -14,4 +14,6 @@ Fazer alguns testes de requisição para analisar o retorno dos dados - 12:30
 Testar um dicionario que me permita acessar todas as subcategorias 12:48
 Intervalo - 14:30
 Retorno - 15:05
-
+Vou coletar primeiramente todos urls das imagens e colocar num dicionario para depois extrair os dados - 15:00
+Todos os Urls foram coletados - 18:50
+Entrega 22:01

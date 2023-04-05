@@ -4,10 +4,10 @@ import json
 from source.artemoderna import ArteModerna
 
 if __name__ == '__main__':
-    all_items_to_save = ArteModerna().start_requests()
-    print(all_items_to_save)
-    # df = pd.DataFrame(all_items_to_save)
-    # df.to_json('results.json')
+    lista_dicionarios_categorias, lista_artes = ArteModerna().start_requests()
     with open("results.json", "w", encoding='utf-8') as outfile:
-        json.dump(all_items_to_save, outfile, ensure_ascii=False)
-
+        json.dump(lista_dicionarios_categorias, outfile, ensure_ascii=False)
+    with open("imagelist.json", "w", encoding='utf-8') as outfile:
+        json.dump(lista_artes, outfile, ensure_ascii=False)
+    df = pd.read_json("imagelist.json", 'r', encoding='utf-8')
+    excel = df.to_excel('imagelist.xlsx', 'r', encoding='utf-8')
