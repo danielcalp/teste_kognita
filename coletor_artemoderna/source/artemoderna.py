@@ -143,7 +143,6 @@ class ArteModerna():
             string_text = conteudo_artes.decode('utf-8')
             url_arte = string_text.split('<a href="')[1].split('">')[0]
             response = s.get(url_base + url_arte)
-            time.sleep(5)
             soup = BeautifulSoup(response.text, 'html.parser')
             # html_content = response.content
             # lxml_tree = html.fromstring(html_content)

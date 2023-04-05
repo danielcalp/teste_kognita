@@ -2,19 +2,19 @@
 ## Tempo de duração
 
 > O que você achou do tempo total deste teste ser entre 8-10 horas?
-r:
+r: Dado que não tinha muita informação sobre o site poderia ir até 12 horas e dividir em 2 dias.
 > Foi muito ou pouco tempo para desenvolver este teste?
-r:
+r: Pouco
 
 ## Complexidade
 
 > Você achou a dificuldade apropriada?
-r:
+r: Foi tranquilo, mais a questão do tempo que acabou sendo curto
 > O teste foi muito fácil ou muito difícil para você?
-r:
+r: Achei médio, seria facil se não fosse a questão do tempo
 
 ## Sua conclusão sobre este teste
-r:
+r: É um bom teste para identificar se o profissional é qualificado para exercer o cargo de Webscraper, só peca por ser um teste longo para quem não conhece o sistema
 
 
 ## Obrigado!
